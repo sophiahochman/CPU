@@ -56,3 +56,4 @@ Execução: A ALU processa o valor vindo do registrador com o valor vindo da mem
 Escrita (Store): No próximo ciclo, o resultado da ALU é capturado pelo registrador, atualizando o display e preparando a CPU para a próxima instrução.
 
 Vídeo explicativo: 
+https://drive.google.com/file/d/1f5kcEgQIUHThj8gmLcBPBinhNqoQ3O2B/view?usp=drive_link 
